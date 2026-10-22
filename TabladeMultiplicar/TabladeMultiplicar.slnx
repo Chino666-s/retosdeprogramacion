@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TabladeMultiplicar/TabladeMultiplicar.vcxproj" />
+  <Project Path="TabladeMultiplicar/TabladeMultiplicar.vcxproj" Id="00d9c5ca-5033-48dd-9646-d596c718b9aa" />
 </Solution>
