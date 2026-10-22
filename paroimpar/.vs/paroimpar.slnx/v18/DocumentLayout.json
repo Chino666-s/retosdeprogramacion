@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\paroimpar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE5D5BB-0EB7-4959-8CC1-87DC5E5C4834}|paroimpar\\paroimpar.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\paroimpar\\paroimpar\\paroimpar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FE5D5BB-0EB7-4959-8CC1-87DC5E5C4834}|paroimpar\\paroimpar.vcxproj|solutionrelative:paroimpar\\paroimpar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "paroimpar.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\paroimpar\\paroimpar\\paroimpar.cpp",
+              "RelativeDocumentMoniker": "paroimpar\\paroimpar.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\paroimpar\\paroimpar\\paroimpar.cpp",
+              "RelativeToolTip": "paroimpar\\paroimpar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T03:55:26.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
