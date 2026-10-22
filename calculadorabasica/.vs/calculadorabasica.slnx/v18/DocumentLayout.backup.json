@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\calculadorabasica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40B2EC1-5316-4E57-AAD3-56F8F9906262}|calculadorabasica\\calculadorabasica.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\calculadorabasica\\calculadorabasica\\calculadorabasica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40B2EC1-5316-4E57-AAD3-56F8F9906262}|calculadorabasica\\calculadorabasica.vcxproj|solutionrelative:calculadorabasica\\calculadorabasica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculadorabasica.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\calculadorabasica\\calculadorabasica\\calculadorabasica.cpp",
+              "RelativeDocumentMoniker": "calculadorabasica\\calculadorabasica.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\calculadorabasica\\calculadorabasica\\calculadorabasica.cpp*",
+              "RelativeToolTip": "calculadorabasica\\calculadorabasica.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T04:04:21.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
