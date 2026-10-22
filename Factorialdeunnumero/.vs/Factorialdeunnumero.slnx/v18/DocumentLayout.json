@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D5A3C6-A170-41B3-8F4E-D72BA5233A58}|Factorialdeunnumero\\Factorialdeunnumero.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D5A3C6-A170-41B3-8F4E-D72BA5233A58}|Factorialdeunnumero\\Factorialdeunnumero.vcxproj|solutionrelative:Factorialdeunnumero\\Factorialdeunnumero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factorialdeunnumero.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp",
+              "RelativeDocumentMoniker": "Factorialdeunnumero\\Factorialdeunnumero.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp",
+              "RelativeToolTip": "Factorialdeunnumero\\Factorialdeunnumero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T04:13:40.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
