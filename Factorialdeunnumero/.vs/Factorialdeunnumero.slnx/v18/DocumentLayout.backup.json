@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Factorialdeunnumero.cpp",
               "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp",
               "RelativeDocumentMoniker": "Factorialdeunnumero\\Factorialdeunnumero.cpp",
-              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp*",
-              "RelativeToolTip": "Factorialdeunnumero\\Factorialdeunnumero.cpp*",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\Factorialdeunnumero\\Factorialdeunnumero\\Factorialdeunnumero.cpp",
+              "RelativeToolTip": "Factorialdeunnumero\\Factorialdeunnumero.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-22T04:13:40.433Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

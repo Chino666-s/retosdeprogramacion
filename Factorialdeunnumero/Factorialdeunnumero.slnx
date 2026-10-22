@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Factorialdeunnumero/Factorialdeunnumero.vcxproj" />
+  <Project Path="Factorialdeunnumero/Factorialdeunnumero.vcxproj" Id="48d5a3c6-a170-41b3-8f4e-d72ba5233a58" />
 </Solution>
