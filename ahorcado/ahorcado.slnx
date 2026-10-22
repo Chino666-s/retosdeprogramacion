@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ahorcado/ahorcado.vcxproj" Id="1b776fb1-6977-4c7d-8627-2e7386895dd6" />
+</Solution>

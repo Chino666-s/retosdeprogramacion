@@ -1,0 +1,10 @@
+﻿  ahorcado.cpp
+C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\ahorcado\ahorcado\ahorcado.cpp(39,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\ahorcado\ahorcado\ahorcado.cpp(39,17):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\ahorcado\ahorcado\ahorcado.cpp(39,17):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\ahorcado\ahorcado\ahorcado.cpp(39,17):
+      este argumento se utiliza como un tamaño de búfer
+  
+  ahorcado.vcxproj -> C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\ahorcado\x64\Debug\ahorcado.exe

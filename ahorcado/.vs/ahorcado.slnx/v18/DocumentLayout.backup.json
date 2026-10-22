@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ahorcado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B776FB1-6977-4C7D-8627-2E7386895DD6}|ahorcado\\ahorcado.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ahorcado\\ahorcado\\ahorcado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B776FB1-6977-4C7D-8627-2E7386895DD6}|ahorcado\\ahorcado.vcxproj|solutionrelative:ahorcado\\ahorcado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ahorcado.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ahorcado\\ahorcado\\ahorcado.cpp",
+              "RelativeDocumentMoniker": "ahorcado\\ahorcado.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ahorcado\\ahorcado\\ahorcado.cpp",
+              "RelativeToolTip": "ahorcado\\ahorcado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T13:55:07.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
