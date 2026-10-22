@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ContadordeVocales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF28E8C0-F8EA-4738-9597-B23FBA4B2BA7}|ContadordeVocales\\ContadordeVocales.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ContadordeVocales\\ContadordeVocales\\ContadordeVocales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF28E8C0-F8EA-4738-9597-B23FBA4B2BA7}|ContadordeVocales\\ContadordeVocales.vcxproj|solutionrelative:ContadordeVocales\\ContadordeVocales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAADIEAAAAAAAAAAAawEoEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T04:25:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContadordeVocales.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ContadordeVocales\\ContadordeVocales\\ContadordeVocales.cpp",
+              "RelativeDocumentMoniker": "ContadordeVocales\\ContadordeVocales.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ContadordeVocales\\ContadordeVocales\\ContadordeVocales.cpp",
+              "RelativeToolTip": "ContadordeVocales\\ContadordeVocales.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T04:23:52.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
