@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="paroimpar/paroimpar.vcxproj" />
+  <Project Path="paroimpar/paroimpar.vcxproj" Id="4fe5d5bb-0eb7-4959-8cc1-87dc5e5c4834" />
 </Solution>
