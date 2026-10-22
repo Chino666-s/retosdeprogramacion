@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="mayordetresnumeros/mayordetresnumeros.vcxproj" />
+  <Project Path="mayordetresnumeros/mayordetresnumeros.vcxproj" Id="68e28fcb-040e-4527-8b7c-050d1b693352" />
 </Solution>
