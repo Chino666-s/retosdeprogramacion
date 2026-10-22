@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ContadordeVocales/ContadordeVocales.vcxproj" />
+  <Project Path="ContadordeVocales/ContadordeVocales.vcxproj" Id="ef28e8c0-f8ea-4738-9597-b23fba4b2ba7" />
 </Solution>

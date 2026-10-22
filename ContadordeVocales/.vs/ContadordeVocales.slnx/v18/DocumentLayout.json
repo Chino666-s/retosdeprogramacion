@@ -17,12 +17,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -33,8 +29,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ViewState": "AgIAAEEEAAAAAAAAAAAqwEoEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-22T04:25:19.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T04:25:19.99Z"
             },
             {
               "$type": "Document",
@@ -44,7 +39,7 @@
               "RelativeDocumentMoniker": "ContadordeVocales\\ContadordeVocales.cpp",
               "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\ContadordeVocales\\ContadordeVocales\\ContadordeVocales.cpp",
               "RelativeToolTip": "ContadordeVocales\\ContadordeVocales.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-22T04:23:52.941Z",
               "EditorCaption": ""
