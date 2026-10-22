@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="IntercambioconPunteros/IntercambioconPunteros.vcxproj" />
+  <Project Path="IntercambioconPunteros/IntercambioconPunteros.vcxproj" Id="c42d88e8-04d6-4b4f-b722-da7b2f43084c" />
 </Solution>
