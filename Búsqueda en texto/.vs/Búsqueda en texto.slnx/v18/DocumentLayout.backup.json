@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\B\u00FAsqueda en texto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381A1297-EA55-44D2-8CF0-5525B12965E9}|B\u00FAsqueda en texto\\B\u00FAsqueda en texto.vcxproj|C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{381A1297-EA55-44D2-8CF0-5525B12965E9}|B\u00FAsqueda en texto\\B\u00FAsqueda en texto.vcxproj|solutionrelative:B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u00FAsqueda en texto.cpp",
+              "DocumentMoniker": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp",
+              "RelativeDocumentMoniker": "B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp",
+              "ToolTip": "C:\\Users\\100196979\\Documents\\GitHub\\retosdeprogramacion\\retosdeprogramacion\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp*",
+              "RelativeToolTip": "B\u00FAsqueda en texto\\B\u00FAsqueda en texto.cpp*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-06T05:45:08.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

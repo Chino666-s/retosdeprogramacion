@@ -1,0 +1,10 @@
+﻿  Búsqueda en texto.cpp
+C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\Búsqueda en texto\Búsqueda en texto\Búsqueda en texto.cpp(19,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\Búsqueda en texto\Búsqueda en texto\Búsqueda en texto.cpp(19,13):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\Búsqueda en texto\Búsqueda en texto\Búsqueda en texto.cpp(19,13):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\Búsqueda en texto\Búsqueda en texto\Búsqueda en texto.cpp(19,13):
+      este argumento se utiliza como un tamaño de búfer
+  
+  Búsqueda en texto.vcxproj -> C:\Users\100196979\Documents\GitHub\retosdeprogramacion\retosdeprogramacion\Búsqueda en texto\x64\Debug\Búsqueda en texto.exe
